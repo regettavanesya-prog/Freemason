@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
@@ -191,7 +191,7 @@
                         <div class="absolute -inset-1 rounded-2xl bg-gradient-to-r from-archive-accent/30 to-archive-border opacity-75 blur-md"></div>
                         <div class="relative bg-archive-card border border-archive-border rounded-2xl p-4 sm:p-6 space-y-4 shadow-2xl">
                             <div class="relative rounded-lg overflow-hidden border border-archive-border/80 group">
-                                <img src="https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=800&q=80" alt="Suasana Malang Kolonial & Dokumen" class="w-full h-64 object-cover filter contrast-125 sepia-[0.25] group-hover:scale-105 transition-transform duration-500">
+                                <img src="https://i1.wp.com/risetcdn.jatimtimes.com/images/2020/12/27/Potret-kawasan-Balai-Kota-Malang-zaman-dahulu.-Foto-Screen-Capture-video-Bimo-K.A.7f55fd882cbe9470.jpg?quality=80&strip=all">
                                 <div class="absolute inset-0 bg-gradient-to-t from-archive-dark via-transparent to-transparent opacity-80"></div>
                                 <div class="absolute bottom-3 left-3 right-3 text-xs">
                                     <span class="bg-archive-accent/90 text-archive-dark font-bold px-2 py-0.5 rounded text-[10px]">ARSIP FOTO NATIVE</span>
@@ -441,7 +441,7 @@
                 <!-- Visual Map Interactive Display -->
                 <div class="lg:col-span-8 bg-archive-bg rounded-xl border border-archive-border relative overflow-hidden min-h-[350px] sm:min-h-[450px] flex items-center justify-center">
                     <!-- Map Background Vintage Image Overlay -->
-                    <img src="https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&w=1200&q=80" alt="Sketsa Peta Malang Tempo Dulu" class="absolute inset-0 w-full h-full object-cover opacity-20 filter sepia">
+                    <img src="https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&w=1200&q=80https://perpustakaankarmelindo.org/lib/minigalnano/createthumb.php?filename=images/docs/11.755..jpg&width=200" alt="Sketsa Peta Malang Tempo Dulu" class="absolute inset-0 w-full h-full object-cover opacity-20 filter sepia">
                     
                     <div class="absolute top-3 left-3 bg-archive-dark/90 px-3 py-1.5 rounded border border-archive-border text-xs text-archive-paper">
                         <i class="fa-solid fa-map text-archive-accent mr-1"></i> Peta Wilayah Malang Kolonial (Simulasi Visual)
@@ -659,7 +659,7 @@
                 title: 'Dokumen Sejarah Administrasi Kolonial Malang',
                 year: 1915,
                 category: 'Dokumen Sejarah',
-                image: 'https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80',
+                image: 'https://perpustakaankarmelindo.org/lib/minigalnano/createthumb.php?filename=images/docs/11.755..jpg&width=200',
                 status: 'Sangat Baik (Arsip Digital)',
                 description: 'Berkas catatan administrasi umum dan Korespondensi antar-organisasi di Malang era awal abad ke-20.',
                 source: 'Koleksi Dokumentasi Arsip Sejarah Malang (Gambar 1)',
@@ -672,8 +672,7 @@
                 title: 'Kleian’s Adresboek van Geheel Nederlandsch-Indië (1941)',
                 year: 1941,
                 category: 'Buku Direktori Kolonial',
-                image: 'https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=800&q=80',
-                status: 'Petunjuk Pencarian (Belum Terkonfirmasi Langsung)',
+                image: 'https://www.boudewynvanoort.com/wp-content/uploads/2016/03/Adresboekvan-Bandoeng-626x1024.jpg',
                 description: 'Buku direktori Hindia Belanda ini disebut dalam penelitian sejarah sebagai salah satu sumber untuk menelusuri organisasi dan alamat pada masa kolonial. Entri khusus Loji Malang dalam edisi 1941 masih merupakan petunjuk pencarian, bukan bukti langsung yang sudah terkonfirmasi.',
                 source: 'Rujukan Direktori Hindia Belanda 1941 (Gambar 2)',
                 verified: false
@@ -685,7 +684,7 @@
                 title: 'Koran De Locomotief — Edisi 15 Februari 1927',
                 year: 1927,
                 category: 'Surat Kabar Kolonial',
-                image: 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80',
+                image: 'https://bandungbergerak.id/cdn/7/1/7/0/7170.jpg',
                 status: 'Petunjuk Koran Lama (Perlu Verifikasi Teks)',
                 description: 'Sumber sejarah berbahasa Belanda mencatat bahwa Loji Freemason Malang telah berusia 25 tahun pada 1927 dan merujuk pada koran De Locomotief, edisi 15 Februari 1927, halaman 3 kolom 1. Ini petunjuk arsip yang spesifik, tetapi isi artikel koran aslinya belum berhasil dipastikan secara utuh.',
                 source: 'Delpher / Pers Kolonial Belanda (Gambar 3)',
@@ -699,7 +698,7 @@
                 year: 1920,
                 location: 'Kawasan Kayutangan / Klojen, Malang',
                 category: 'Bangunan Bersejarah',
-                image: 'https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80',
+                image: 'https://lppm.petra.ac.id/wp-content/uploads/2023/11/perkembangan-kota-scaled.jpg',
                 description: 'Dokumentasi visual arsitektur gaya Indis di Malang pada dekade 1920-an, menunjukkan struktur facade simetris khas era kolonial.',
                 source: 'Arsip Foto Publik Kota Malang',
                 verified: true
@@ -712,7 +711,7 @@
                 year: 1935,
                 location: 'Jalan Besar Ijen, Malang',
                 category: 'Kegiatan Kolonial',
-                image: 'https://images.unsplash.com/photo-1447069387593-a5de0862481e?auto=format&fit=crop&w=800&q=80',
+                image: 'https://tugumalang.id/wp-content/uploads/2021/10/28ec7c16-7e8e-4b47-bfa6-4d7f98369d7a.webp',
                 description: 'Pemandangan lanskap kota dengan pepohonan palem ikonik dan aktivitas masyarakat urban Malang pra-Perang Dunia II.',
                 source: 'Koleksi Dokumentasi Wilayah Jawa Timur',
                 verified: true
@@ -724,7 +723,7 @@
                 title: 'Peta Wilayah & Tata Ruang Kota Malang (Topografisch Bureau)',
                 year: 1925,
                 category: 'Peta Wilayah Tempo Dulu',
-                image: 'https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&w=800&q=80',
+                image: 'https://www.anjani.id/wp-content/uploads/2023/10/WhatsApp-Image-2023-10-26-at-11.13.06-PM-980x832.jpeg',
                 status: 'Terverifikasi (Peta Resmi Belanda)',
                 description: 'Peta zonasi pemukiman Eropa, Jawa, dan Pecinan di Malang yang memperlihatkan alokasi gedung-gedung publik dan fasilitas sosial.',
                 source: 'Topografisch Bureau Nederlandsch-Indië',
@@ -738,21 +737,21 @@
                 name: 'Kawasan Kayutangan (Pusat Aktivitas Sosial)',
                 year: '1900 - 1940',
                 desc: 'Pusat komersial dan ruang berkumpulnya berbagai perhimpunan masyarakat Eropa dan elite lokal di Malang.',
-                img: 'https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=600&q=80',
+                img: 'https://binus.ac.id/malang/dkv/wp-content/uploads/sites/9/2024/03/42-20231102095419-13961295776543B81BC6EA9.jpeg',
                 source: 'Arsip Tata Kota Malang'
             },
             {
                 name: 'Kawasan Celaket / Rampal',
                 year: '1910 - 1930',
                 desc: 'Area militer dan pemukiman pejabat kolonial di mana beberapa tokoh perhimpunan pernah memegang peranan administrasi.',
-                img: 'https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=600&q=80',
+                img: 'https://upload.wikimedia.org/wikipedia/commons/5/55/COLLECTIE_TROPENMUSEUM_Huizen_aan_de_Tjelaket_in_Malang_TMnr_10023701.jpg?utm_source=id.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled',
                 source: 'Catatan Wilayah Malang'
             },
             {
                 name: 'Stasiun Kereta Api Malang (Transportasi Utama)',
                 year: '1901',
                 desc: 'Jalur konektivitas vital yang menghubungkan loge-loge Freemason Malang dengan Loge induk De Vriendschap di Surabaya.',
-                img: 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80',
+                img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUS9ZaYPc2_TTXs8ChnqWQEDxqKFxH0g5QGIJD-t5RVAlKWNqNWmpfVCZrZe37wvP2cGynGtHbZhmtNCvoP2uoCwpkckkyAnoChnLird1tdvt8uVqdrOEkPWA3eHzkyDk4v1gesu4wdTE/s320/DSCF7539.JPG',
                 source: 'Dokumentasi Staatsspoorwegen'
             }
         ];
